@@ -1,0 +1,15 @@
+# Nmap 7.92 scan report
+Nmap scan report for 192.168.1.10
+Host is up (0.0032s latency).
+Not shown: 997 closed ports
+PORT    STATE SERVICE
+22/tcp  open  ssh
+80/tcp  open  http
+
+Nmap scan report for 192.168.1.12
+Host is up (0.0041s latency).
+Not shown: 998 closed ports
+PORT     STATE SERVICE
+3389/tcp open  ms-wbt-server
+
+Nmap done: 256 IP addresses (3 hosts up) scanned in 12.34 seconds
