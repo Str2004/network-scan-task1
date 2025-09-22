@@ -5,7 +5,7 @@
 **Tools used:** Nmap, (optional) Wireshark.
 
 ## My Environment
-- My machine IP: `192.168.1.15`  
+- My machine IP: `192.168.1.15`  ``` ip address is for example ```
 - Network range scanned: `192.168.1.0/24`  
 - OS: Windows 10 (example)  
 - Nmap version: 7.92 (example)
